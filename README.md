@@ -1,10 +1,33 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto TING (Trybe Is Not Google)
+
+## 📝 Descrição
+Projeto de processamento de arquivos de texto em Python, desenvolvendo estruturas de dados personalizadas para manipulação e busca de informações.
+
+## 🛠 Tecnologias
+- Python
+- Estruturas de dados
+- Algoritmos de busca e processamento
+- Manipulação de arquivos
+
+## ✨ Funcionalidades
+- Importação e leitura de arquivos de texto
+- Implementação de fila de processamento
+- Busca de palavras em arquivos
+- Geração de relatórios de processamento
+
+## 🚀 Instalação
+```bash
+git clone https://github.com/l7coutinho/Projeto-TING.git
+cd Projeto-TING
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## 🧪 Testes
+```bash
+python3 -m pytest
+```
+
+## 📄 Licença
+Projeto educacional desenvolvido durante o curso da Trybe.
